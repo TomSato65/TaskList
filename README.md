@@ -15,7 +15,7 @@ Programa apresentado no canal Rodolfo Mori no Youtube para ensino de tecnologias
 <br>
 
 <p align="center">
-  <img alt="Projeto Task List" src="./github/Tela_Lista_de_Tarefas.png" width="100%">
+  <img alt="Projeto Task List" src=".github/Preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Task List é uma agenda de listas de tarefas, para gerenciamento de suas tarefas online.
 Utilizei para estudo e aprendizado de manipulação de Arrays, JSON, Local Storage, e demais ferramentas.
 
-- [Acesse o projeto finalizado, online](https://github.com/TomSato65/TaskList.git)
-
+---
 
 Feito com ♥ by Wellington Sato
